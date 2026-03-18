@@ -1,7 +1,7 @@
 # Ticket Booking System (Backend)
 
 ## Overview
-A high-concurrency ticket booking backend API built with Node.js, Express, and PostgreSQL. Designed to simulate the core functionality of platforms like BookMyShow or RedBus, it utilizes strict seat-level locking to ensure data consistency and entirely prevent overbooking during concurrent requests[cite: 930, 931, 944].
+A high-concurrency ticket booking backend API built with Node.js, Express, and PostgreSQL. Designed to simulate the core functionality of platforms like BookMyShow or RedBus, it utilizes strict seat-level locking to ensure data consistency and entirely prevent overbooking during concurrent requests.
 
 ---
 
